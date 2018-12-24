@@ -1,0 +1,115 @@
+body{
+    background-image: url("main-background1.jpg");
+}
+#alHaveAcc{
+    font-family: cambria;
+    margin-left: 1050px;   
+}
+#login{
+    float: right; 
+    width: 280px; 
+    height: 150px; 
+    margin-right: 30px;
+}
+#head{
+    margin-left: 21%; 
+    width: 680px; 
+    height: 48px;
+    color: burlywood;
+    font-family: papyrus;
+    font-size: 25px;
+    font-weight: bold;
+}
+.Description{
+    margin-left: 30%; 
+    width: 500px; 
+    height: 150px;
+}
+p{
+    text-align: center;
+}
+#signUp{
+    width: 380px; 
+    height: 400px; 
+    margin-left: 37%;
+}
+#foot{
+    list-style: none;
+    float: right;
+    margin-right: 33%;
+}
+.footLi{
+    margin-top: 20px;
+    float: left;
+    padding-left: 40px;
+    font-family: cambria;
+}
+a{
+    text-decoration: none;
+    color: burlywood;
+    font-size: 18px;
+}
+input{
+    background-color: white;
+    font-size: 17px;
+    font-family: Times New Roman;
+}
+#mailList{
+    text-align: center;
+    list-style: none;
+    float: left;
+    margin-left: 0px;
+    
+}
+.mailOp{
+    padding-right: 145px;
+    background-color: aquamarine;
+    font-style: oblique;
+    font-weight: bold;
+}
+.NewMessageForm{
+    width: 585px;
+    height: 565px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: black;
+    background-color: #638B91;
+    border-style: solid;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+.MessOptions{ 
+  border-radius: 5px;
+  color: #151B28;
+  background-color: #C0B3B4;
+  margin-left: 5px;
+} 
+.MessOptions:hover{ 
+  color: #C0B3B4;
+  background-color: #2F363E;
+  cursor: pointer;
+} 
+#newMessButton{
+    background-color: #252426;
+    border-radius: 10px;
+    color: #CEE8F2;
+    margin-left: 60px;
+}
+#newMessButton:hover{
+    background-color: #CEE8F2;
+    border-radius: 10px;
+    color: #252426;
+    cursor: pointer;
+}
+.AccOptions{
+    border-radius: 5px;
+    color: #151B28;
+    background-color: #C0B3B4;
+    margin-left: 156px;
+}
+.AccOptions:hover{
+    color: #C0B3B4;
+    background-color: #2F363E;
+    cursor: pointer;
+}
